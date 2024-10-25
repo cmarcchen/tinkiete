@@ -1,1 +1,86 @@
-{}	
+{
+	"BaseName" : "Maufs pour test",
+	"BaseType" : "test",
+	"members" : [
+		{
+			"firstname" : "Alexia",
+			"lastname" : "Smith",
+			"age" : 22,
+			"sexe" : "F",
+			"biography" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
+			"hobbies" : ["Violon", "Reading"]
+		},
+		{
+			"firstname" : "Beatrice",
+			"lastname" : "Johnson",
+			"age" : 23,
+			"sexe" : "F",
+			"biography" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
+                        "hobbies" : ["Singing", "Golf", "Tennis"]
+		},
+		{
+			"firstname" : "Carol",
+			"lastname" : "Denver",
+			"age" : 28,
+			"sexe" : "F",
+			"biography":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
+			"hobbies" : ["Running", "Piano", "Reading"]
+		},
+		{
+			"firstname" : "Dorothy",
+			"lastname" : "Lost",
+			"age" : 30,
+			"sexe" : "F",
+			"biography":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
+			"hobbies" : ["Chess", "Reading"]
+		},
+		{
+			"firstname" : "Emily",
+			"lastname" : "Paris",
+			"age" : 21,
+			"sexe" : "F",
+			"biography":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
+			"hobbies" : ["Shopping", "Travelling", "Dancing"]
+		},
+		{
+			"firstname" : "Fanny",
+			"lastname" : "Hover",
+			"age" : 24,
+			"sexe" : "F",
+			"biography":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
+			"hobbies" : ["Theater", "Reading"]
+		},
+		{
+			"firstname" : "Ginny",
+			"lastname" : "West",
+			"age" : 19,
+			"sexe" : "F",
+			"biography":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
+			"hobbies" : ["Watching movies", "Dancing"]
+		},
+		{
+			"firstname" : "Hannah",
+			"lastname" : "Monatana",
+			"age" : 23,
+			"sexe" : "F",
+			"biography":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
+			"hobbies" : ["Singing", "Dancing"]
+		},
+		{
+			"firstname" : "Isabel",
+			"lastname" : "Leyziebleu",
+			"age" : 26,
+			"sexe" : "F",
+			"biography":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
+			"hobbies" : ["Singing"]
+		},
+		{
+			"firstname" : "Jessica",
+			"lastname" : "Portman",
+			"age" : 27,
+			"sexe" : "F",
+			"biography":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
+			"hobbies" : ["Running", "Dancing"]
+		}
+	]
+}	
